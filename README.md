@@ -20,4 +20,4 @@ https://simple.wikipedia.org/wiki/Sudoku
 - Type '**r**' -Reset board , '**s**' - Runs the visualized solver '**q**'-Quits the game  
 
 **Solver algorithm**
-- the solver was implemented using the backtracking method.
+- The solver was implemented using the backtracking method.
