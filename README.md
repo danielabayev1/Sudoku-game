@@ -1,5 +1,5 @@
 # Sudoku-game
-A colorful Sudoku game, including visualized solver.
+A colorful Sudoku game, including a visualized solver.
 
 Background and rules:
 https://simple.wikipedia.org/wiki/Sudoku
