@@ -17,7 +17,7 @@ https://simple.wikipedia.org/wiki/Sudoku
 - In order to type a number, choose a cell - by **left** click on it, then type your number. 0 deletes the cell content.
 - In order to sketch numbers, choose a cell - by **right** click on it, then type your number. if you type a number that already typed in this cell
   it will delete it (you can sketch multiple numbers, make sure they are following the rules of he game)
-- Type '**r**' -Reset board , '**s**' - Runs the visualized solver '**q**'-Quits the game  
+- Type '**r**' -Reset board , '**s**' - Runs the visualized solver, '**q**'-Quits the game  
 
 **Solver algorithm**
 - The solver was implemented using the backtracking method.
